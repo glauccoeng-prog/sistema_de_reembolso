@@ -782,9 +782,7 @@ Validação específica para Pull Requests com **matriz de Node.js**:
 │              PR CHECK MATRIX                   │
 ├───────────────────────────────────────────────┤
 │                                               │
-│  Node 18  ──────┐                             │
-│                 │                             │
-│  Node 20  ──────┼────▶  🔨 BUILD CHECK        │
+│  Node 20  ──────┬────▶  🔨 BUILD CHECK        │
 │                 │                             │
 │  Node 22  ──────┘                             │
 │                                               │
@@ -792,9 +790,10 @@ Validação específica para Pull Requests com **matriz de Node.js**:
 ```
 
 **Testes executados em:**
-- Node.js 18.x
 - Node.js 20.x
 - Node.js 22.x
+
+> **Nota:** Node 18 foi removido pois `jsdom@27` requer Node 20+
 
 ### Dependabot
 
@@ -959,7 +958,7 @@ O componente `PWAInstallPrompt` intercepta o evento `beforeinstallprompt` e exib
 ## 🔧 Instalação e Execução
 
 ### Pré-requisitos
-- Node.js v16 ou superior
+- Node.js v20 ou superior (obrigatório - jsdom@27 requer Node 20+)
 - npm ou yarn
 
 ### Passos
