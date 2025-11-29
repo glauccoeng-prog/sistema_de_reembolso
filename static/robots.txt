@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-# Substitua pela URL final da sua Vercel após o deploy
-Sitemap: https://sistema-reembolso.vercel.app/sitemap.xml
+# Sitemap para SEO
+Sitemap: https://sistema-de-reembolso-two.vercel.app/sitemap.xml

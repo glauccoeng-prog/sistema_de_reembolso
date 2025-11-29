@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Página Inicial / Lista -->
   <url>
-    <loc>https://sistema-reembolso.vercel.app/</loc>
-    <lastmod>2024-03-20</lastmod>
+    <loc>https://sistema-de-reembolso-two.vercel.app/</loc>
+    <lastmod>2025-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <!-- Página de Sucesso -->
   <url>
-    <loc>https://sistema-reembolso.vercel.app/solicitacao-enviada</loc>
-    <lastmod>2024-03-20</lastmod>
+    <loc>https://sistema-de-reembolso-two.vercel.app/solicitacao-enviada</loc>
+    <lastmod>2025-11-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
