@@ -38,6 +38,7 @@ updates:
           - "@types/*"
           - "@testing-library/*"
           - "vitest"
+          - "@vitest/*"
           - "typescript"
           - "eslint*"
           - "prettier*"
