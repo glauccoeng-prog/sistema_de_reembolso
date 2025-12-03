@@ -34,7 +34,7 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-helmet-async": "latest",
-    "react-hook-form": "^7.53.0",
+    "react-hook-form": "^7.67.0",
     "react-router-dom": "^6.8.1",
     "tailwind-merge": "2.5.4",
     "tailwindcss-animate": "1.0.7",
