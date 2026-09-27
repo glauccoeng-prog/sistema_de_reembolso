@@ -816,8 +816,8 @@ Atualização automática de dependências:
 Adicione ao topo do README:
 
 ```markdown
-![CI/CD](https://github.com/SEU_USER/sistema_de_reembolso/actions/workflows/ci.yml/badge.svg)
-![PR Check](https://github.com/SEU_USER/sistema_de_reembolso/actions/workflows/pr-check.yml/badge.svg)
+![CI/CD](https://github.com/glauccoeng-prog/sistema_de_reembolso/actions/workflows/ci.yml/badge.svg)
+![PR Check](https://github.com/glauccoeng-prog/sistema_de_reembolso/actions/workflows/pr-check.yml/badge.svg)
 ```
 
 ### Boas Práticas Implementadas
